@@ -1,5 +1,5 @@
 # CPU stress tester
-a little linux CLI tool for cpu stress testing and temperature monitoring
+a little linux CLI tool for cpu stress testing and temperature monitoring.
 
 `make`  
 `bin/stress`
